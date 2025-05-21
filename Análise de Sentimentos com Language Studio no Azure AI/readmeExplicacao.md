@@ -33,5 +33,5 @@ Uma ferramenta poderosa para transformar voz em texto e extrair insights valioso
 
 ## 🚀 Links Úteis
 
-https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account?icid=ai-services
-https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/
+- https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account?icid=ai-services
+- https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/
